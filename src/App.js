@@ -1,7 +1,7 @@
 /* eslint-disable array-callback-return */
 /* eslint-disable no-unused-expressions */
 import React from "react";
-import MainMap from "./components/MainMap/MainMap";
+import MainMap from "./Components/MainMap/MainMap";
 // eslint-disable-next-line import/no-webpack-loader-syntax
 import mapboxgl from "!mapbox-gl";
 import "./App.css";
